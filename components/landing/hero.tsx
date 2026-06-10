@@ -33,8 +33,8 @@ export function Hero() {
         </Badge>
 
         <h1 className="max-w-3xl text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl">
-          Deploy &amp; Manage Your Servers{" "}
-          <span className="text-primary">In One Place</span>
+          Stop Paying for Managed Hosting.{" "}
+          <span className="text-primary">Own Your Servers.</span>
         </h1>
 
         <p className="max-w-2xl text-lg text-muted-foreground md:text-xl">
