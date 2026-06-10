@@ -52,6 +52,7 @@ export function Hero() {
             size="lg"
             variant="outline"
             className="gap-2"
+            nativeButton={false}
             render={
               <a
                 href="https://github.com"

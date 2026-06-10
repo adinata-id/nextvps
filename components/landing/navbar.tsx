@@ -56,6 +56,7 @@ export function Navbar() {
           <Button
             variant="ghost"
             size="icon"
+            nativeButton={false}
             render={
               <a
                 href="https://github.com"
@@ -103,6 +104,7 @@ export function Navbar() {
               <Button
                 variant="outline"
                 className="flex-1"
+                nativeButton={false}
                 render={
                   <a
                     href="https://github.com"
